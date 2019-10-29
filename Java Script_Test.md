@@ -1,6 +1,3 @@
-# GitHub_Validation
-# Training_Made Changes
-package com.rxlogix.crypto;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.IvParameterSpec;
